@@ -1,6 +1,8 @@
 # Sharayu Mali
 ### Create personal portfolio
 
+![](/images/avatar.png)
+
 ### [Project 1 : Detection of weeds in agricultural feid images using deep learning](www.google.com)
 
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
