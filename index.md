@@ -5,25 +5,25 @@
 - Mobile: 7262020628
 - Email: sharayu2001@gmail.com
 - LinkedIn: www.linkedin.com/in/sharayu-mali
-## Objective
+## Objective  
 A soon to be computer engineering graduate looking forward to growing and learning while leveraging my knowledge and skills
-to solve real time problems at your company.
-## Education
-> B. E. in Computer Engineering | Savitribai Phule Pune University | [2020-2023]   
-> Pune Institute of Computer Technology, Pune    
-> Result: Second Year CGPA – 9.66    
+to solve real time problems at your company.  
+## Education  
+B. E. in Computer Engineering | Savitribai Phule Pune University | [2020-2023]   
+Pune Institute of Computer Technology, Pune  
+Result: Second Year CGPA – 9.66   
 
-> Online BSC Degree in Programming and Data Science | IIT Madras | [2021-2024]  
-> Foundational Level | Completed | 9.4 CGPA  
-> Diploma in Programming | Pursuing | 1st Term - 8.5 CGPA  
+Online BSC Degree in Programming and Data Science | IIT Madras | [2021-2024]  
+Foundational Level | Completed | 9.4 CGPA  
+Diploma in Programming | Pursuing | 1st Term - 8.5 CGPA  
 
-> Diploma in Computer Technology | Maharshtra State Board of Technical Education | [2017-2020]  
-> Sou Venutai Chavan Polytechnic – Pune  
-> Result: 96.57 % First Class with Distinction  
+Diploma in Computer Technology | Maharshtra State Board of Technical Education | [2017-2020]  
+Sou Venutai Chavan Polytechnic – Pune  
+Result: 96.57 % First Class with Distinction  
 
-> 10th Standard | Central Board of Secondary Education | Year of Passing: 2017  
-> Sinhgad Spring Dale Public School – Pune  
-> Result: 98.4 %  
+10th Standard | Central Board of Secondary Education | Year of Passing: 2017  
+Sinhgad Spring Dale Public School – Pune  
+Result: 98.4 %  
 
 ## Skills
 ### TECHNICAL
