@@ -9,6 +9,7 @@
 A soon to be computer engineering graduate looking forward to growing and learning while leveraging my knowledge and skills
 to solve real time problems at your company.  
 ## Education  
+  
 B. E. in Computer Engineering - Savitribai Phule Pune University - [2020-2023]   
 Pune Institute of Computer Technology, Pune  
 Result: Second Year CGPA – 9.66   
