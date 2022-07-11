@@ -14,8 +14,8 @@ Pune Institute of Computer Technology, Pune
 Result: Second Year CGPA – 9.66   
 
 Online BSC Degree in Programming and Data Science | IIT Madras | [2021-2024]  
-Foundational Level | Completed | 9.4 CGPA  
-Diploma in Programming | Pursuing | 1st Term - 8.5 CGPA  
+Foundational Level - Completed | 9.4 CGPA  
+Diploma in Programming - Pursuing | 1st Term - 8.5 CGPA  
 
 Diploma in Computer Technology | Maharshtra State Board of Technical Education | [2017-2020]  
 Sou Venutai Chavan Polytechnic – Pune  
