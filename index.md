@@ -26,7 +26,7 @@ Sinhgad Spring Dale Public School – Pune
 Result: 98.4 %  
 
 ## Skills
-### TECHNICAL
+**Technical**
 - Programming Languages – Python, Java, HTML, CSS, JavaScript, SQL  
 - Web and API development – Flask framework  
 - Database Management – MySQL, PostgreSQL  
@@ -34,9 +34,11 @@ Result: 98.4 %
 - Data Science & Machine learning  
 - Cloud Skills – AWS  
 - Software Development – Problem-Solving, Object-Oriented Programming, Data Structures and Algorithms  
-### NON-TECHNICAL
-- Communication, Teamwork, Presentation, Adaptability
-### ADDITIONAL COURSES
+  
+**Non-Technical**
+- Communication, Teamwork, Presentation, Adaptability  
+  
+**Additional Courses**
 - AWS Academy Cloud Foundations  
 - Python for Data Science - NPTEL  
 - Object Oriented Programming in Java (Coursera)  
