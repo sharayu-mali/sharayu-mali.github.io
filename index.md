@@ -1,3 +1,4 @@
+#Sharayu Mali
 - Address: STES’s Staff Quarters Vadgaon (Bk), Pune – 41  
 - Mobile: 7262020628  
 - Email: sharayu2001@gmail.com  
@@ -31,7 +32,7 @@ Result: 98.4 %
 - Tools – Jupyter Notebook, Eclipse, VSCode  
 - Data Science & Machine learning  
 - Cloud Skills – AWS  
-- Software Development – Problem-Solving, Object-Oriented Programming, Data Structures and Algorithms  
+- Software Development – Problem-Solving, Object-Oriented Programming, Data Structures and Algorithms   
   
 **Non-Technical**
 - Communication, Teamwork, Presentation, Adaptability  
@@ -42,22 +43,24 @@ Result: 98.4 %
 - Object Oriented Programming in Java (Coursera)  
 - Python for Everybody Specialization (Coursera)  
 - Computer Vision Basics (Coursera)  
-- Problem Solving, Python Programming, and Video Games (Coursera)
-## Experience
-##### INTERNSHIP | NICE SYSTEMS LTD | [NOVEMBER 2021 – JUNE 2022]
+- Problem Solving, Python Programming, and Video Games (Coursera)  
+  
+## Experience  
+##### INTERNSHIP | NICE SYSTEMS LTD | [NOVEMBER 2021 – JUNE 2022]  
 - Project: ML Data quality monitoring and alerting
 - Description: Built machine learning based solution for detecting abnormalities in the data received from different clients.
 - Cleaned, preprocessed, and analyzed data received from different clients
 - Trained Time series forecasting models using ARIMA and PROPHET algorithms and used for detecting abnormalities in
 data patterns.
 - Built Flask-based API for accessing and refreshing models
-- Technical Stack Used – Flask, Python, MySQL
-## Projects & Milestones
+- Technical Stack Used – Flask, Python, MySQL  
+  
+## Projects & Milestones  
 #### PROJECT – SEGMENTATION OF CROPS AND WEEDS IN AGRICLTURAL FIELD IMAGES USING DEEP LEARNING  
 Description:  
 Trained a U-NET architecture-based image segmentation model for segmenting crops and weeds from agricultural
 field images.  
 #### PARTICIPATED IN THE AWS DEEPRACER WOMEN’S LEAGUE INDIA 2021MERIT-CUM-MEANS SCHOLARSHIP
-#### FOR BSC DEGREE IN PROGRAMMING AND DATA SCIENCE
-- Sponsored by L&T Thales Technology Services Pvt. Ltd. - Foundational level
-- Sponsored Walmart – Diploma level
+#### FOR BSC DEGREE IN PROGRAMMING AND DATA SCIENCE  
+- Sponsored by L&T Thales Technology Services Pvt. Ltd. - Foundational level  
+- Sponsored Walmart – Diploma level  
