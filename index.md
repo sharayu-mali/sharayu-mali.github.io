@@ -1,10 +1,10 @@
 # Sharayu Mali
 ---
 
-- Address: STES’s Staff Quarters Vadgaon (Bk), Pune – 41
-- Mobile: 7262020628
-- Email: sharayu2001@gmail.com
-- LinkedIn: www.linkedin.com/in/sharayu-mali
+- Address: STES’s Staff Quarters Vadgaon (Bk), Pune – 41  
+- Mobile: 7262020628  
+- Email: sharayu2001@gmail.com  
+- LinkedIn: www.linkedin.com/in/sharayu-mali  
 ## Objective  
 A soon to be computer engineering graduate looking forward to growing and learning while leveraging my knowledge and skills
 to solve real time problems at your company.  
