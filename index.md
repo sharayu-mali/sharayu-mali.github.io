@@ -1,6 +1,3 @@
-# Sharayu Mali
----
-
 - Address: STES’s Staff Quarters Vadgaon (Bk), Pune – 41  
 - Mobile: 7262020628  
 - Email: sharayu2001@gmail.com  
