@@ -1,11 +1,13 @@
-#Sharayu Mali
+# Sharayu Mali
 - Address: STES’s Staff Quarters Vadgaon (Bk), Pune – 41  
 - Mobile: 7262020628  
 - Email: sharayu2001@gmail.com  
 - LinkedIn: www.linkedin.com/in/sharayu-mali  
+  
 ## Objective  
 A soon to be computer engineering graduate looking forward to growing and learning while leveraging my knowledge and skills
 to solve real time problems at your company.  
+  
 ## Education  
   
 B. E. in Computer Engineering - Savitribai Phule Pune University - [2020-2023]   
@@ -60,7 +62,6 @@ data patterns.
 Description:  
 Trained a U-NET architecture-based image segmentation model for segmenting crops and weeds from agricultural
 field images.  
-#### PARTICIPATED IN THE AWS DEEPRACER WOMEN’S LEAGUE INDIA 2021MERIT-CUM-MEANS SCHOLARSHIP
-#### FOR BSC DEGREE IN PROGRAMMING AND DATA SCIENCE  
+#### PARTICIPATED IN THE AWS DEEPRACER WOMEN’S LEAGUE INDIA 2021MERIT-CUM-MEANS SCHOLARSHIP FOR BSC DEGREE IN PROGRAMMING AND DATA SCIENCE  
 - Sponsored by L&T Thales Technology Services Pvt. Ltd. - Foundational level  
 - Sponsored Walmart – Diploma level  
